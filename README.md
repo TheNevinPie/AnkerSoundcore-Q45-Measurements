@@ -1,4 +1,7 @@
-Check measurements for csv files for Anker Soundcore Q45 (ANC ON with BassUp) to be used with AutoEQ
-There are also ready made eq files for using with Equalizers:
-- wav files are Convolution EQ which can be used in Jamesdsp, EqualizerAPO Windows, EasyEffects Linux, etc.
-- txt contains Graphic EQ which can be used in Wavelet, Rootfull/Rootless Jamesdsp, EqualizerAPO Windows, EasyEffects Linux and many more!
+# Repo with Mastered EQ and CSV Frequency Response Measurements for Anker Soundcore Q45
+
+Measurement file in measurements/Anker Soundcore Q45 (ANC On with BassUp).csv is digitized from the graph provided by Rtings.com.
+
+## Mastered EQ 3.0 Auto EQ settings
+<img width="364" height="814" alt="autoeq-settings" src="" />
+You can use these settings and the Anker Soundcore Q45 (ANC On with BassUp).csv as the headphone measurement in AutoEQ.app to get the Mastered EQ 3.0 sounding EQ.
