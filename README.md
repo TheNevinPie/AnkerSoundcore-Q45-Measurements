@@ -1,4 +1,4 @@
-# Repo with Mastered EQ and CSV Frequency Response Measurements for Anker Soundcore Q45
+# Mastered EQ and CSV Frequency Response Measurements for Anker Soundcore Q45
 
 Measurement file in measurements/Anker Soundcore Q45 (ANC On with BassUp).csv is digitized from the graph provided by Rtings.com.
 
